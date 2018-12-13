@@ -98,8 +98,41 @@ textarea {
    ========================================================================== */
 
 
+body{
+font-family: 'Playfair Display', serif;
+background: #eee;
+color: #444;
+}
+
+img{
+    width: 100%;
+    max-width: 100%;
+}
+
+ul{
+    text-transform: uppercase;
+}
+
+a{
+    color: #444;
+}
 
 
+.center-text{
+    text-align: center;
+}
+
+h3{
+    padding: .5rem;
+}
+
+h1{
+    padding: 2rem;
+}
+
+.btn{
+    padding: .5rem;
+}
 
 
 
